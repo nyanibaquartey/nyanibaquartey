@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**nyanibaquartey/nyanibaquartey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nana. I have a background in Information Technology. I'm a passionate about using my SQL, Excel and Tableau skills to analyze and visualize data to drive decisions. I am excited to transfer my problem-solving, communication, presentation skills and attention ot detail in my experience as a Technology Teacher to a 
+Data Analyst role. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Portfolio Projects
+A list of data analytics projects briefly describing the project, the skills and the tools used.
+
+#COVID 19 Data Exploration
+Code: COVID Portfolio Project.sql
+
+Description: The dataset contains records of COVID-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+Technology: SQL Server
+
+
+##Certificates
+SQL Server Developer (Datacamp, Aug. 2023) 
+Programmng for Data Science Nanodegree (Udacity, Oct. 2020)
+
+
+##Contacts
+LinkedIn: www.linkedin.com/in/nananyanibaquartey
+Email: nyaniba.quartey@yahoo.com
+
+
