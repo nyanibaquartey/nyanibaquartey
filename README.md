@@ -6,6 +6,7 @@ Data Analyst role.
 # Portfolio Projects
 A list of data analytics projects.
 
+- ### [TABLEAU PROFILE](https://public.tableau.com/app/profile/nana.nyaniba.quartey/vizzes)
 - ### [COVID Data Exploration Project](https://github.com/nyanibaquartey/Data-Analysis/blob/main/CovidDataExplorationProject.sql)
 
 
