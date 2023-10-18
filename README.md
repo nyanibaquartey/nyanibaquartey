@@ -6,7 +6,7 @@ Data Analyst role.
 # Portfolio Projects
 A list of data analytics projects.
 
-- ## [COVID Data Exploration Project](https://github.com/nyanibaquartey/Data-Analysis/blob/main/CovidDataExplorationProject.sql)
+- ### [COVID Data Exploration Project](https://github.com/nyanibaquartey/Data-Analysis/blob/main/CovidDataExplorationProject.sql)
 
 
 # Certificates
