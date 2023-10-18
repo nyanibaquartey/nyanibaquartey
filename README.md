@@ -3,7 +3,7 @@ Hi there 👋. I'm Nana. I have a background in Information Technology. I'm a pa
 Data Analyst role. 
 
 
-# Portfolio Projects
+# Projects
 A list of data analytics projects.
 
 - ### [Tableau Profile](https://public.tableau.com/app/profile/nana.nyaniba.quartey/vizzes)
