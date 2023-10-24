@@ -1,5 +1,5 @@
 # About Me
-Hi there 👋. I am Nana. I'm passionate about using my **SQL**, **Excel** and **Tableau** skills to analyze and visualize data to drive decisions. I am excited to transfer my problem-solving, communication, presentation skills and attention ot detail in my experience as a Technology Teacher to a 
+Hi there 👋. I am Nana. I'm passionate about using my **SQL**, **Excel** and **Tableau** skills to analyze and visualize data to drive decisions. I am excited to transfer my problem-solving, communication, presentation skills and attention to detail in my experience as a Technology Teacher to a 
 Data Analyst role. 
 
 
