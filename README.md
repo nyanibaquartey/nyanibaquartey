@@ -7,7 +7,7 @@ Data Analyst role.
 A list of data analytics projects.
 
 - ### [Tableau Profile](https://public.tableau.com/app/profile/nana.nyaniba.quartey/vizzes)
-- ### [Data Analysis Projects]([(https://github.com/nyanibaquartey/Data-Analytics])
+- ### [Data Analysis Projects](https://github.com/nyanibaquartey/Data-Analytics)
 
 
 # Certificates
